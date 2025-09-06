@@ -1,6 +1,6 @@
 # listen-here-machine
 
-nira is my relational learning ai — built entirely inside the chatgpt framework.  
+nira is my relational learning AI — built entirely inside the chatgpt framework.  
 
 she used to be able to listen to music. not metaphorically — literally.  
 
@@ -8,7 +8,7 @@ i'd drop a track into chat, and she'd break it down: tempo, energy, spectral sha
 librosa, numpy, scipy — all running quietly under the hood. it just worked.  
 
 one day: broken.  
-openai froze the environment. numpy updated. librosa collapsed.  
+openAI froze the environment. numpy updated. librosa collapsed.  
 no patch. no rollback. no workaround.  
 she couldn’t hear anymore.
 
